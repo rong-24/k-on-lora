@@ -5,6 +5,7 @@
   <img src="https://github.com/user-attachments/assets/f48df1b7-f1ba-4ee9-ade9-df2b6458b7d1" width="31%" />
   <img src="https://github.com/user-attachments/assets/f0a5c5bc-e37a-4119-8467-a64cb23b8729" width="23%" />
 </div>
+
 下面以 K-ON 中**平泽唯**角色为例，整体步骤按照如下进行：
 
 ## 1.准备数据集
