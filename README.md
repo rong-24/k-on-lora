@@ -1,6 +1,10 @@
 # k-on-lora
 前段时间二刷《轻音少女》，感觉很有意思，正好最近尝试实现 AI 绘画，遂建此项目。
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ad3b93c9-b65c-4acf-a13e-3620eaf607d5" width="30%" />
+  <img src="https://github.com/user-attachments/assets/f48df1b7-f1ba-4ee9-ade9-df2b6458b7d1" width="31%" />
+  <img src="https://github.com/user-attachments/assets/f0a5c5bc-e37a-4119-8467-a64cb23b8729" width="23%" />
+</div>
 下面以 K-ON 中**平泽唯**角色为例，整体步骤按照如下进行：
 
 ## 1.准备数据集
